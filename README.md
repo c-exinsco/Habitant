@@ -1,6 +1,6 @@
 # Habitant
 Habitant HBT<br/>
-<img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/Habitant-HBT-Coin-200x.png" title="Habitant HBT BSC BEP20 Token" />
+<img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/Habitant-HBT-Coin-200x.png" title="Habitant HBT BSC BEP20 Token" /><br/>
 Polygon Smart Contract Network BEP20 Token<br/>
 <br/>
 https://c-exins.co/tokens/BEP20/habitant-hbt/<br/>
