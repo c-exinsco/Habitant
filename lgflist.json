@@ -1,0 +1,20 @@
+{
+        "name": "Habitant",
+        "logoURI": "https://www.c-exins.co/tokens/BEP20/habitant-hbt/images/uploaded/0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5.png",
+        "timestamp": 1653850800,
+        "tokens": [
+               {
+                     "chainId": 1,
+                     "address": "0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5",
+                     "name": "Habitant",
+                     "symbol": "HBT",
+                     "decimals": 8,
+                     "logoURI": "https://www.c-exins.co/tokens/BEP20/habitant-hbt/images/uploaded/0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5.png"
+               }
+         ],
+         "version": {
+                "major": 1,
+                "minor": 0,
+                "patch": 0
+        }
+}
