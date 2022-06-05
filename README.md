@@ -38,8 +38,8 @@ https://polygonscan.com/token/0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5<br/>
 
 
 Exchanges<br/>
-<img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/pancake.finace.png" title="Pancakeswap" />
-https://pancakeswap.finance/swap?outputCurrency=0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5<br/>
+<a href="https://pancakeswap.finance/swap?outputCurrency=0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5" title="Habitant HBT on Pancakeswap"><img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/pancake.finace.png" title="Pancakeswap" /></a>
+<br/>
 <br/><br/>
 
 
