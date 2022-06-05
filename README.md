@@ -1,5 +1,4 @@
 # Habitant
-Habitant HBT<br/>
 <img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/Habitant-HBT-Coin-200x.png" title="Habitant HBT BSC BEP20 Token" /><br/>
 Polygon Smart Contract Network BEP20 Token<br/>
 <br/>
@@ -9,17 +8,16 @@ https://c-exins.co/tokens/BEP20/habitant-hbt/<br/>
 
 Technical information of Habitant HBT Coin<br/>
 <br/>
-Name: Habitant<br/>
-Symbol: HBT<br/>
-Contract Address: 0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5<br/>
-Decimals: 8<br/>
+Name: <b>Habitant</b><br/>
+Symbol: <b>HBT</b><br/>
+Contract Address: <b>0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5</b><br/>
+Decimals: <b>8</b><br/>
 <br/>
 Habitant HBT Token. Created/Owned by C-EXINS. Launched today on 30 of May, 2022.<br/>
 <br/><br/>
 
 
-Wallets Supported<br/>
-to Store your Habitant (HBT) tokens<br/>
+Wallets Supported to Store your Habitant (HBT) tokens<br/>
 <br/>
 Metamask Wallet, Trust Wallet:<br/>
 <br/><br/>
@@ -40,7 +38,7 @@ https://polygonscan.com/token/0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5<br/>
 
 
 Exchanges<br/>
-
+<img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/pancake.finace.png" title="Pancakeswap" />
 https://pancakeswap.finance/swap?outputCurrency=0x4BA37AD296a798A1C793F0f7446ddD5d719C2dA5<br/>
 <br/><br/>
 
