@@ -19,7 +19,7 @@ Habitant HBT Token. Created/Owned by C-EXINS. Launched today on 30 of May, 2022.
 
 Wallets Supported to Store your Habitant (HBT) tokens<br/>
 <br/>
-Metamask Wallet, Trust Wallet:<br/>
+<a href="https://microsoftedge.microsoft.com/addons/detail/metamask/ejbalbakoplchlghecdalmeeeajnimhm?hl=en-US" title="Habitant HBT on Metamask">Metamask Wallet</a>, <a href="https://trustwallet.com/dl/apk" title="Habitant HBT on Trust">Trust Wallet</a><br/>
 <br/><br/>
 
 
