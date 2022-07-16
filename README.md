@@ -50,7 +50,7 @@ Subscribe us for help & support and to get connected:<br/>
 <br/>
 Twitter: https://twitter.com/cexinsco<br/>
 Instagram: https://www.instagram.com/cexinsco<br/>
-Telegram: https://t.me/CXTronCXTTradersGRP1 (Join Telegram Chat Group)<br/>
+Telegram: https://t.me/HabitantHBTTradersGRP1 (Join Telegram Chat Group)<br/>
 Discord: https://discord.new/QQy9fskxavaD (Join Discord Chat Group)<br/>
 Pinterest: https://pinterest.com/cexinsco<br/>
 Reddit: https://www.reddit.com/user/cexinsco<br/>
