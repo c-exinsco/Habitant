@@ -1,4 +1,6 @@
-# Habitant
+# Habitant-HBT
+Habitant HBT
+
 <img src="https://c-exins.co/tokens/BEP20/habitant-hbt/images/Habitant-HBT-Coin-200x.png" title="Habitant HBT BSC BEP20 Token" /><br/>
 Polygon Smart Contract Network BEP20 Token<br/>
 <br/>
@@ -46,14 +48,15 @@ Exchanges<br/>
 
 Subscribe us for help & support and to get connected:<br/>
 <br/>
+Twitter: https://twitter.com/cexinsco<br/>
+Instagram: https://www.instagram.com/cexinsco<br/>
+Telegram: https://t.me/CXTronCXTTradersGRP1 (Join Telegram Chat Group)<br/>
+Discord: https://discord.new/QQy9fskxavaD (Join Discord Chat Group)<br/>
+Pinterest: https://pinterest.com/cexinsco<br/>
+Reddit: https://www.reddit.com/user/cexinsco<br/>
 Slack: https://cexinscocrypt-dod6095.slack.com<br/>
 Facebook: https://facebook.com/cexinsco<br/>
 LinkedIn: https://linkedin.com/in/cexinsco<br/>
-Twitter: https://twitter.com/cexinsco<br/>
-Instagram: https://www.instagram.com/cexinsco<br/>
-Discord: https://discord.new/QQy9fskxavaD<br/>
-Pinterest: https://pinterest.com/cexinsco<br/>
-Reddit: https://www.reddit.com/user/cexinsco<br/>
 Tiktok: https://tiktok.com/@cexinsco?lang=en<br/>
 Telegram: https://t.me/cexinsco<br/>
 Medium: https://c-exins-co.medium.com/<br/>
